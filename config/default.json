@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://gupta:gupta@instadb.8wnebub.mongodb.net/?retryWrites=true&w=majority",
+    "secretOrKey": "secret"
+}
